@@ -1,6 +1,6 @@
 python-dotenv==1.0.0
 openai==1.56.0
-azure-identity==1.16.0
+azure-identity==1.16.1
 Quart==0.19.9
 pydantic==2.4.2
 azure-storage-blob==12.14.1

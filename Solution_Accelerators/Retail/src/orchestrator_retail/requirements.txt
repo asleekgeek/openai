@@ -16,5 +16,5 @@ Hypercorn==0.14.4
 PyYAML==6.0.1
 iso8601==2.0.0
 pydantic==2.4.2
-aiohttp==3.9.1
+aiohttp==3.13.4
 redis==5.0.4
